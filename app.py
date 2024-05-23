@@ -64,18 +64,18 @@ def recommend_projects(resource, projects):
     return response
 
 def run_resourcerec():
-    st.title("Resource and Project Recommendation Chatbot")
+    st.title("TR Resource Recommendation Chatbot")
 
     # Enter a new resource
-    st.header("Enter New Resource")
-    new_resource_name = st.text_input("Enter a new resource name")
+    st.header("Enter Resource Details")
+    new_resource_name = st.text_input("Enter a resource name")
 
     skill_options = ["React", "NestJS", "ExpressJS", "MySQL", "PostgreSQL", "TensorFlow", "Machine Learning", "React Native", "DevOps", "Solution Architect"]
     level_options = ["Beginner", "Intermediate", "Advanced"]
 
     new_resource_skills = {}
     if new_resource_name:
-        st.write("Select skills for the new resource:")
+        st.write("Select skills for the resource:")
         for skill in skill_options:
             level = st.selectbox(f"Select level for {skill}", [""] + level_options, key=f"{new_resource_name}_{skill}")
             if level:
