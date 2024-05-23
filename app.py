@@ -64,7 +64,7 @@ def recommend_projects(resource, projects):
     return response
 
 def run_resourcerec():
-    st.title("TR Resource Recommendation Chatbot")
+    st.title("TR Resource Recommendation Application")
 
     # Enter a new resource
     st.header("Enter Resource Details")
