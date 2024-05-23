@@ -1,0 +1,22 @@
+[
+  {
+    "Project Name": "Brightup",
+    "Description": "A mobile and web application for financial wellness.",
+    "Technologies": ["Express", "React","React Native", "Firebase"]
+  },
+  {
+    "Project Name": "SMGB",
+    "Description": "An AI-based mobile and web application for golf ball scanning and recommendation.",
+    "Technologies": ["NestJS","React", "React Native", "MySQL", "TensorFlow"]
+  },
+  {
+    "Project Name": "CelebrateAbility",
+    "Description": "A platform for celebrating and supporting diverse abilities.",
+    "Technologies": ["Express", "React", "PostgreSQL"]
+  },
+  {
+    "Project Name": "Whozin",
+    "Description": "A social event planning and management application.",
+    "Technologies": ["PostgreSQL", "NestJS", "React", "React Native"]
+  }
+]

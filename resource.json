@@ -1,0 +1,412 @@
+[
+    {
+        "Resource Name": "Anwaar ulhaq",
+        "Skills": {
+            "NestJS": "Advanced",
+            "ExpressJS": "Advanced",
+            "MySQL": "Advanced",
+            "PostgreSQL": "Advanced",
+            "React": "Advanced",
+            "React Native": "Intermediate",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Intermediate"
+        },
+        "Project Preferences": [
+            "Full Stack Development",
+            "Solution Architect"
+        ]
+    },
+    {
+        "Resource Name": "Bob Johnson",
+        "Skills": {
+            "NestJS": "Intermediate",
+            "ExpressJS": "Advanced",
+            "MySQL": "Intermediate",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Intermediate",
+            "Machine Learning": "Intermediate",
+            "React": "Advanced",
+            "React Native": "Advanced",
+            "DevOps": "Advanced",
+            "Solution Architect": "Intermediate"
+        },
+        "Project Preferences": [
+            "Machine Learning",
+            "Mobile Development"
+        ]
+    },
+    {
+        "Resource Name": "Cathy Brown",
+        "Skills": {
+            "NestJS": "Beginner",
+            "ExpressJS": "Advanced",
+            "MySQL": "Advanced",
+            "PostgreSQL": "Intermediate",
+            "TensorFlow": "Intermediate",
+            "Machine Learning": "Intermediate",
+            "React": "Intermediate",
+            "React Native": "Beginner",
+            "DevOps": "Beginner",
+            "Solution Architect": "Intermediate"
+        },
+        "Project Preferences": [
+            "Web Development",
+            "AI Projects"
+        ]
+    },
+    {
+        "Resource Name": "David Lee",
+        "Skills": {
+            "NestJS": "Advanced",
+            "ExpressJS": "Advanced",
+            "MySQL": "Beginner",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Beginner",
+            "Machine Learning": "Beginner",
+            "React": "Advanced",
+            "React Native": "Intermediate",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Advanced"
+        },
+        "Project Preferences": [
+            "Full Stack Development",
+            "Solution Architect"
+        ]
+    },
+    {
+        "Resource Name": "Eva Green",
+        "Skills": {
+            "NestJS": "Intermediate",
+            "ExpressJS": "Intermediate",
+            "MySQL": "Advanced",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Advanced",
+            "Machine Learning": "Advanced",
+            "React": "Intermediate",
+            "React Native": "Advanced",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Beginner"
+        },
+        "Project Preferences": [
+            "AI Projects",
+            "Mobile Development"
+        ]
+    },
+    {
+        "Resource Name": "Frank White",
+        "Skills": {
+            "NestJS": "Intermediate",
+            "ExpressJS": "Beginner",
+            "MySQL": "Intermediate",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Intermediate",
+            "Machine Learning": "Intermediate",
+            "React": "Advanced",
+            "React Native": "Advanced",
+            "DevOps": "Advanced",
+            "Solution Architect": "Intermediate"
+        },
+        "Project Preferences": [
+            "Web Development",
+            "Mobile Development"
+        ]
+    },
+    {
+        "Resource Name": "Grace Black",
+        "Skills": {
+            "NestJS": "Advanced",
+            "ExpressJS": "Advanced",
+            "MySQL": "Advanced",
+            "PostgreSQL": "Intermediate",
+            "TensorFlow": "Intermediate",
+            "Machine Learning": "Intermediate",
+            "React": "Advanced",
+            "React Native": "Beginner",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Intermediate"
+        },
+        "Project Preferences": [
+            "Full Stack Development",
+            "Web Development"
+        ]
+    },
+    {
+        "Resource Name": "Hank Hill",
+        "Skills": {
+            "NestJS": "Beginner",
+            "ExpressJS": "Advanced",
+            "MySQL": "Intermediate",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Intermediate",
+            "Machine Learning": "Beginner",
+            "React": "Intermediate",
+            "React Native": "Advanced",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Advanced"
+        },
+        "Project Preferences": [
+            "Mobile Development",
+            "Solution Architect"
+        ]
+    },
+    {
+        "Resource Name": "Ivy Clark",
+        "Skills": {
+            "NestJS": "Intermediate",
+            "ExpressJS": "Intermediate",
+            "MySQL": "Advanced",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Advanced",
+            "Machine Learning": "Advanced",
+            "React": "Intermediate",
+            "React Native": "Beginner",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Beginner"
+        },
+        "Project Preferences": [
+            "AI Projects",
+            "Web Development"
+        ]
+    },
+    {
+        "Resource Name": "Jack Wright",
+        "Skills": {
+            "NestJS": "Advanced",
+            "ExpressJS": "Intermediate",
+            "MySQL": "Advanced",
+            "PostgreSQL": "Intermediate",
+            "TensorFlow": "Beginner",
+            "Machine Learning": "Beginner",
+            "React": "Advanced",
+            "React Native": "Intermediate",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Advanced"
+        },
+        "Project Preferences": [
+            "Full Stack Development",
+            "Solution Architect"
+        ]
+    },
+    {
+        "Resource Name": "Kara West",
+        "Skills": {
+            "NestJS": "Intermediate",
+            "ExpressJS": "Advanced",
+            "MySQL": "Intermediate",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Intermediate",
+            "Machine Learning": "Intermediate",
+            "React": "Advanced",
+            "React Native": "Advanced",
+            "DevOps": "Advanced",
+            "Solution Architect": "Intermediate"
+        },
+        "Project Preferences": [
+            "Machine Learning",
+            "Mobile Development"
+        ]
+    },
+    {
+        "Resource Name": "Liam Scott",
+        "Skills": {
+            "NestJS": "Beginner",
+            "ExpressJS": "Advanced",
+            "MySQL": "Advanced",
+            "PostgreSQL": "Intermediate",
+            "TensorFlow": "Intermediate",
+            "Machine Learning": "Intermediate",
+            "React": "Intermediate",
+            "React Native": "Beginner",
+            "DevOps": "Beginner",
+            "Solution Architect": "Intermediate"
+        },
+        "Project Preferences": [
+            "Web Development",
+            "AI Projects"
+        ]
+    },
+    {
+        "Resource Name": "Mia Reed",
+        "Skills": {
+            "NestJS": "Advanced",
+            "ExpressJS": "Advanced",
+            "MySQL": "Beginner",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Beginner",
+            "Machine Learning": "Beginner",
+            "React": "Advanced",
+            "React Native": "Intermediate",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Advanced"
+        },
+        "Project Preferences": [
+            "Full Stack Development",
+            "Solution Architect"
+        ]
+    },
+    {
+        "Resource Name": "Nina Turner",
+        "Skills": {
+            "NestJS": "Intermediate",
+            "ExpressJS": "Intermediate",
+            "MySQL": "Advanced",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Advanced",
+            "Machine Learning": "Advanced",
+            "React": "Intermediate",
+            "React Native": "Advanced",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Beginner"
+        },
+        "Project Preferences": [
+            "AI Projects",
+            "Mobile Development"
+        ]
+    },
+    {
+        "Resource Name": "Owen Clark",
+        "Skills": {
+            "NestJS": "Intermediate",
+            "ExpressJS": "Beginner",
+            "MySQL": "Intermediate",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Intermediate",
+            "Machine Learning": "Intermediate",
+            "React": "Advanced",
+            "React Native": "Advanced",
+            "DevOps": "Advanced",
+            "Solution Architect": "Intermediate"
+        },
+        "Project Preferences": [
+            "Web Development",
+            "Mobile Development"
+        ]
+    },
+    {
+        "Resource Name": "Paula Mitchell",
+        "Skills": {
+            "NestJS": "Advanced",
+            "ExpressJS": "Advanced",
+            "MySQL": "Advanced",
+            "PostgreSQL": "Intermediate",
+            "TensorFlow": "Intermediate",
+            "Machine Learning": "Intermediate",
+            "React": "Advanced",
+            "React Native": "Beginner",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Intermediate"
+        },
+        "Project Preferences": [
+            "Full Stack Development",
+            "Web Development"
+        ]
+    },
+    {
+        "Resource Name": "Quinn Howard",
+        "Skills": {
+            "NestJS": "Beginner",
+            "ExpressJS": "Advanced",
+            "MySQL": "Intermediate",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Intermediate",
+            "Machine Learning": "Beginner",
+            "React": "Intermediate",
+            "React Native": "Advanced",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Advanced"
+        },
+        "Project Preferences": [
+            "Mobile Development",
+            "Solution Architect"
+        ]
+    },
+    {
+        "Resource Name": "Rachel Adams",
+        "Skills": {
+            "NestJS": "Intermediate",
+            "ExpressJS": "Intermediate",
+            "MySQL": "Advanced",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Advanced",
+            "Machine Learning": "Advanced",
+            "React": "Intermediate",
+            "React Native": "Beginner",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Beginner"
+        },
+        "Project Preferences": [
+            "AI Projects",
+            "Web Development"
+        ]
+    },
+    {
+        "Resource Name": "Sam Walker",
+        "Skills": {
+            "NestJS": "Advanced",
+            "ExpressJS": "Intermediate",
+            "MySQL": "Advanced",
+            "PostgreSQL": "Intermediate",
+            "TensorFlow": "Beginner",
+            "Machine Learning": "Beginner",
+            "React": "Advanced",
+            "React Native": "Intermediate",
+            "DevOps": "Intermediate",
+            "Solution Architect": "Advanced"
+        },
+        "Project Preferences": [
+            "Full Stack Development",
+            "Solution Architect"
+        ]
+    },
+    {
+        "Resource Name": "Tina Evans",
+        "Skills": {
+            "NestJS": "Intermediate",
+            "ExpressJS": "Advanced",
+            "MySQL": "Intermediate",
+            "PostgreSQL": "Advanced",
+            "TensorFlow": "Intermediate",
+            "Machine Learning": "Intermediate",
+            "React": "Advanced",
+            "React Native": "Advanced",
+            "DevOps": "Advanced",
+            "Solution Architect": "Intermediate"
+        },
+        "Project Preferences": [
+            "Machine Learning",
+            "Mobile Development"
+        ]
+    },
+    {
+        "Resource Name": "Imran noor",
+        "Skills": {
+            "React": "Advanced",
+            "Reactnative": "Advanced"
+        },
+        "Project Preferences": [
+            ""
+        ]
+    },
+    {
+        "Resource Name": "Imran noor",
+        "Skills": {
+            "React": "Advanced",
+            "Reactnative": "Advanced"
+        },
+        "Project Preferences": [
+            "SMGB",
+            "Whozin"
+        ]
+    },
+    {
+        "Resource Name": "Imran noor",
+        "Skills": {
+            "React": "Advanced",
+            "Reactnative": "Advanced"
+        },
+        "Project Preferences": [
+            "SMGB",
+            "Whozin"
+        ]
+    }
+]
