@@ -1,13 +1,12 @@
 [
     {
-        "Resource Name": "Anwaar ulhaq",
+        "Resource Name": "Anwaar Ulhaq",
         "Skills": {
             "NestJS": "Advanced",
             "ExpressJS": "Advanced",
             "MySQL": "Advanced",
             "PostgreSQL": "Advanced",
             "React": "Advanced",
-            "React Native": "Intermediate",
             "DevOps": "Intermediate",
             "Solution Architect": "Intermediate"
         },
@@ -17,7 +16,7 @@
         ]
     },
     {
-        "Resource Name": "Bob Johnson",
+        "Resource Name": "Ahmed Raza",
         "Skills": {
             "NestJS": "Intermediate",
             "ExpressJS": "Advanced",
@@ -31,12 +30,13 @@
             "Solution Architect": "Intermediate"
         },
         "Project Preferences": [
+            "Full Stack Development",
             "Machine Learning",
             "Mobile Development"
         ]
     },
     {
-        "Resource Name": "Cathy Brown",
+        "Resource Name": "Bilal Khan",
         "Skills": {
             "NestJS": "Beginner",
             "ExpressJS": "Advanced",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "Resource Name": "David Lee",
+        "Resource Name": "Daniyal Hussain",
         "Skills": {
             "NestJS": "Advanced",
             "ExpressJS": "Advanced",
@@ -74,7 +74,7 @@
         ]
     },
     {
-        "Resource Name": "Eva Green",
+        "Resource Name": "Emaan Shaikh",
         "Skills": {
             "NestJS": "Intermediate",
             "ExpressJS": "Intermediate",
@@ -93,7 +93,7 @@
         ]
     },
     {
-        "Resource Name": "Frank White",
+        "Resource Name": "Faisal Siddiqui",
         "Skills": {
             "NestJS": "Intermediate",
             "ExpressJS": "Beginner",
@@ -108,11 +108,12 @@
         },
         "Project Preferences": [
             "Web Development",
+            "Machine Learning",
             "Mobile Development"
         ]
     },
     {
-        "Resource Name": "Grace Black",
+        "Resource Name": "Ghazala Amin",
         "Skills": {
             "NestJS": "Advanced",
             "ExpressJS": "Advanced",
@@ -131,7 +132,7 @@
         ]
     },
     {
-        "Resource Name": "Hank Hill",
+        "Resource Name": "Hina Tariq",
         "Skills": {
             "NestJS": "Beginner",
             "ExpressJS": "Advanced",
@@ -145,12 +146,12 @@
             "Solution Architect": "Advanced"
         },
         "Project Preferences": [
-            "Mobile Development",
-            "Solution Architect"
+            "Solution Architect",
+            "Mobile Development"
         ]
     },
     {
-        "Resource Name": "Ivy Clark",
+        "Resource Name": "Irfan Malik",
         "Skills": {
             "NestJS": "Intermediate",
             "ExpressJS": "Intermediate",
@@ -169,7 +170,7 @@
         ]
     },
     {
-        "Resource Name": "Jack Wright",
+        "Resource Name": "Junaid Ahmed",
         "Skills": {
             "NestJS": "Advanced",
             "ExpressJS": "Intermediate",
@@ -188,7 +189,7 @@
         ]
     },
     {
-        "Resource Name": "Kara West",
+        "Resource Name": "Kashif Iqbal",
         "Skills": {
             "NestJS": "Intermediate",
             "ExpressJS": "Advanced",
@@ -207,7 +208,7 @@
         ]
     },
     {
-        "Resource Name": "Liam Scott",
+        "Resource Name": "Laila Shah",
         "Skills": {
             "NestJS": "Beginner",
             "ExpressJS": "Advanced",
@@ -226,7 +227,7 @@
         ]
     },
     {
-        "Resource Name": "Mia Reed",
+        "Resource Name": "Mubashir Nawaz",
         "Skills": {
             "NestJS": "Advanced",
             "ExpressJS": "Advanced",
@@ -245,7 +246,7 @@
         ]
     },
     {
-        "Resource Name": "Nina Turner",
+        "Resource Name": "Nida Ali",
         "Skills": {
             "NestJS": "Intermediate",
             "ExpressJS": "Intermediate",
@@ -264,7 +265,7 @@
         ]
     },
     {
-        "Resource Name": "Owen Clark",
+        "Resource Name": "Omar Farooq",
         "Skills": {
             "NestJS": "Intermediate",
             "ExpressJS": "Beginner",
@@ -283,7 +284,7 @@
         ]
     },
     {
-        "Resource Name": "Paula Mitchell",
+        "Resource Name": "Parveen Gul",
         "Skills": {
             "NestJS": "Advanced",
             "ExpressJS": "Advanced",
@@ -302,111 +303,46 @@
         ]
     },
     {
-        "Resource Name": "Quinn Howard",
+        "Resource Name": "Zubaria Fakhar",
         "Skills": {
-            "NestJS": "Beginner",
-            "ExpressJS": "Advanced",
-            "MySQL": "Intermediate",
-            "PostgreSQL": "Advanced",
-            "TensorFlow": "Intermediate",
-            "Machine Learning": "Beginner",
-            "React": "Intermediate",
-            "React Native": "Advanced",
-            "DevOps": "Intermediate",
-            "Solution Architect": "Advanced"
+            "Figma": "Advanced",
+            "Sketch": "Advanced",
+            "Adobe XD": "Advanced",
+            "Photoshop": "Advanced",
+            "Illustrator": "Intermediate"
         },
         "Project Preferences": [
-            "Mobile Development",
-            "Solution Architect"
+            "UI/UX Design",
+            "Web Design"
         ]
     },
-    {
-        "Resource Name": "Rachel Adams",
+     {
+        "Resource Name": "Rashid Amin",
         "Skills": {
-            "NestJS": "Intermediate",
-            "ExpressJS": "Intermediate",
-            "MySQL": "Advanced",
-            "PostgreSQL": "Advanced",
-            "TensorFlow": "Advanced",
-            "Machine Learning": "Advanced",
-            "React": "Intermediate",
-            "React Native": "Beginner",
-            "DevOps": "Intermediate",
-            "Solution Architect": "Beginner"
+            "Figma": "Advanced",
+            "Sketch": "Advanced",
+            "Adobe XD": "Advanced",
+            "Photoshop": "Advanced",
+            "Illustrator": "Intermediate"
         },
         "Project Preferences": [
-            "AI Projects",
-            "Web Development"
+            "UI/UX Design",
+            "Web Design"
         ]
     },
-    {
-        "Resource Name": "Sam Walker",
+     {
+        "Resource Name": "Sufyan ali",
         "Skills": {
-            "NestJS": "Advanced",
-            "ExpressJS": "Intermediate",
-            "MySQL": "Advanced",
-            "PostgreSQL": "Intermediate",
-            "TensorFlow": "Beginner",
-            "Machine Learning": "Beginner",
-            "React": "Advanced",
-            "React Native": "Intermediate",
-            "DevOps": "Intermediate",
-            "Solution Architect": "Advanced"
+            "Figma": "Advanced",
+            "Sketch": "Advanced",
+            "Adobe XD": "Advanced",
+            "Photoshop": "Advanced",
+            "Illustrator": "Intermediate"
         },
         "Project Preferences": [
-            "Full Stack Development",
-            "Solution Architect"
-        ]
-    },
-    {
-        "Resource Name": "Tina Evans",
-        "Skills": {
-            "NestJS": "Intermediate",
-            "ExpressJS": "Advanced",
-            "MySQL": "Intermediate",
-            "PostgreSQL": "Advanced",
-            "TensorFlow": "Intermediate",
-            "Machine Learning": "Intermediate",
-            "React": "Advanced",
-            "React Native": "Advanced",
-            "DevOps": "Advanced",
-            "Solution Architect": "Intermediate"
-        },
-        "Project Preferences": [
-            "Machine Learning",
-            "Mobile Development"
-        ]
-    },
-    {
-        "Resource Name": "Imran noor",
-        "Skills": {
-            "React": "Advanced",
-            "Reactnative": "Advanced"
-        },
-        "Project Preferences": [
-            ""
-        ]
-    },
-    {
-        "Resource Name": "Imran noor",
-        "Skills": {
-            "React": "Advanced",
-            "Reactnative": "Advanced"
-        },
-        "Project Preferences": [
-            "SMGB",
-            "Whozin"
-        ]
-    },
-    {
-        "Resource Name": "Imran noor",
-        "Skills": {
-            "React": "Advanced",
-            "Reactnative": "Advanced"
-        },
-        "Project Preferences": [
-            "SMGB",
-            "Whozin"
+            "UI/UX Design",
+            "Web Design"
         ]
     }
 ]
+   
